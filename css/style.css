@@ -400,11 +400,11 @@ section.section {
 	color: #fff;
 }
 .navbar .navbar-nav > .active > a {
-	padding-bottom: 22px;
 }
 
 h1 a.navbar-brand {
-	font-size: 24px;
+    margin-left: 20px;
+    font-size: 24px;
 	color: #fff;
 	font-weight: 900;
 	text-shadow: none;
