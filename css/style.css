@@ -1227,3 +1227,14 @@ input {
     position: relative;
     z-index: 9999;
 }
+/* Top Links */
+a.black
+{
+    color: #000000;
+    text-decoration: underline;
+}
+a.black:hover 
+{
+    color: #ffffff;
+    text-decoration: underline;
+}
