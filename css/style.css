@@ -48,7 +48,6 @@ h5 { font-size: 16px; }
 .txt-regular { font-weight: 400; }
 .txt-bold { font-weight: 700; }
 .txt-uppercase { text-transform: uppercase; }
-.white { color:white}
 
 blockquote {
 	font-family: Georgia, serif;
@@ -439,7 +438,7 @@ h1 a.navbar-brand {
 =========================== */
 
 section.featured {
-	padding: 120px 0 60px;
+	padding: 200px 0 60px;
 	background: #70B9B0;
 	color: #fdfdfd;
 }
